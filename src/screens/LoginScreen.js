@@ -16,7 +16,7 @@ const LoginScreen = ( {navigation} ) => {
 
     return (
         <View style={styles.container}>
-            <Text style={styles.logo}>MyApp</Text>
+            <Text style={styles.logo}>Together Light Inc</Text>
 
             <View style={styles.inputView}>
                 <TextInput
@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
     },
     logo: {
         fontWeight: 'bold',
-        fontSize: 50,
+        fontSize: 30,
         color: '#333',
         marginBottom: 50,
     },
