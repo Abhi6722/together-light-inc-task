@@ -1,6 +1,7 @@
 # Together Light Inc. Task
 
 This is a React Native project for Together Light Inc. Task. It includes features such as login, viewing a list of posts, and viewing post details.
+<img width="1493" alt="Frame" src="https://github.com/Abhi6722/together-light-inc-task/assets/62201123/8e40be5f-0e53-4353-8e9c-f13465547fd9">
 
 ## Table of Contents
 
@@ -60,6 +61,8 @@ To run the tests:
 ```sh
 npm test
 ```
+<img width="1440" alt="test" src="https://github.com/Abhi6722/together-light-inc-task/assets/62201123/bb93767d-12af-484f-9e8e-f836539883f2">
+
 
 ## License
 
